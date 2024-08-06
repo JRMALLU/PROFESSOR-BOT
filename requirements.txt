@@ -39,4 +39,4 @@ ujson
 wget
 pytz
 googletrans
-
+gtts==2.5.2
