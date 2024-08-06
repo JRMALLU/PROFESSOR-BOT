@@ -38,5 +38,5 @@ wheel
 ujson
 wget
 pytz
-
+googletrans
 
